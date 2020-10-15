@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
           title: Text('Welcome to Flutter'),
         ),
         body: Center(
-          child: Formulario(),
+          child: Login(),
         ),
       ),
     );
